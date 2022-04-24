@@ -13,10 +13,10 @@ A PASCAL interpreter.
 
 ## Usage
 
-tiny14e [-r|-c] &lt;input-file&gt;
-options: -r ruslanspivak
-options: -c crenshaw
-input-file: PASCAL file
+tiny14e [-r|-c] &lt;input-file&gt;</br>
+options: -r ruslanspivak</br>
+options: -c crenshaw</br>
+input-file: PASCAL file</br>
 
 ## Contacting me / contributions
 
